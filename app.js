@@ -26,6 +26,5 @@ function clickHandler() {
     .catch(erroHandler); 
 };
 
-
 btn.addEventListener("click", clickHandler);
   
